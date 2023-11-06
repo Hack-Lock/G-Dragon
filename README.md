@@ -34,6 +34,9 @@ $ git pull
 $ python Run.py
 
 
+### Screenshot 
+
+
 
 ### Let's connect!
 <p>
@@ -44,10 +47,8 @@ $ python Run.py
     <a href="https://www.paypal.me/hacklock" target="blank"><img src="https://ionicabizau.github.io/badges/paypal.svg" /></a>
 </p>
 
-Wanna Hire Me ? 
+### ThankS To Author
 
-###THANKS TO
+• LuciverXploit
 
-#•LuciverXploit
-
-#•LeoXD
+• LeoXD
