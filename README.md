@@ -46,6 +46,8 @@ $ python Run.py
 
 Wanna Hire Me ? 
 
-THANKS TO
-•LuciverXploit
-•LeoXD
+###THANKS TO
+
+#•LuciverXploit
+
+#•LeoXD
